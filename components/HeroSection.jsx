@@ -20,7 +20,7 @@ const HeroSection = () => {
               <span className="text-white text-8xl ">
                 Hello, I'm{" "} 
                 <span className="text-transparent bg-clip-text sm:text-8xl md:text-9xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-                Yee Chian
+                Cherubin John
                 </span>
               </span>
               <br></br>
@@ -70,7 +70,7 @@ const HeroSection = () => {
           >
           <div className="w-[400px] h-[400px] relative z-0">
             <img
-              src="/Hero-Section.png"
+              src="/download.png"
               alt="hero section"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}
